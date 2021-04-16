@@ -9,13 +9,6 @@
       "request": "attach",
       "type": "reactnative",
       "cwd": "${workspaceFolder}"
-    },
-    {
-      "type": "pwa-chrome",
-      "request": "launch",
-      "name": "Launch Chrome against localhost",
-      "url": "http://localhost:19002",
-      "webRoot": "${workspaceFolder}"
     }
   ]
 }
